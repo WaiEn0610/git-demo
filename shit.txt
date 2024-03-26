@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 shit! mabey is dilisurs
 shit!!!!!
+=======
+shit!
+shit!
+>>>>>>> hot-fix
 shit!
 shit!
 shit!
@@ -10,3 +15,5 @@ shit!
 shit!
 shit!
 shit!
+shit!
+shit!HOT-FIX
